@@ -1,10 +1,26 @@
-# Self Directed Projects
+# Recommendation Engine
 
 ## Summary
 
-A collection of independent data projects I've developed during my commitment to being a lifelong learner.
+*This project is in progress*
 
-## Machine Learning
-| Name  | Domain | Date | Updated |
-| :---: | :---: | :---: | :---: |
-| [Database Growth Predictions](https://github.com/James-Livingston/SelfDirectedProjects/blob/master/DatabaseGrowthPredictions/ML-DatabaseGrowthPredictions.ipynb) | IT Infrastructure | 07/01/2018 | 04/10/2019
+Collecting and analyzing 2 million online reviews of a beer.
+
+## Data Collection
+
+Data was collected via web scraping with the Python library BeautifulSoup.  Data was stored in a SQL Server database.
+
+### Schema
+
+- Reviews
+- Beers
+- Brewery
+
+### Cleaning
+
+Data was cleaned in the database itself using T-SQL.
+
+## Data Exploration
+
+- [Beers](https://github.com/James-Livingston/SelfDirectedProjects/blob/master/RecommendationEngine/Exploration/BeerExploration.ipynb)
+
