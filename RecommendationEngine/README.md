@@ -4,11 +4,11 @@
 
 *This project is in progress*
 
-Collecting and analyzing 2 million online reviews of a beer.
+Collecting and analyzing 2 million online reviews of beers.
 
 ## Data Collection
 
-Data was collected via web scraping with the Python library BeautifulSoup.  Data was stored in a SQL Server database.
+Data was collected via web scraping with the Python library BeautifulSoup and stored in a SQL Server database.
 
 ### Schema
 
