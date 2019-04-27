@@ -22,5 +22,6 @@ Data was cleaned in the database itself using T-SQL.
 
 ## Data Exploration
 
-- [Beers](https://github.com/James-Livingston/SelfDirectedProjects/blob/master/RecommendationEngine/Exploration/BeerExploration.ipynb)
+- [Beers](https://github.com/James-Livingston/SelfDirectedProjects/blob/master/RecommendationEngine/Exploration/BeerExploration.ipynb)  Exploring individual beers for popularity and trends.
+- [Beer Styles](https://github.com/James-Livingston/SelfDirectedProjects/blob/master/RecommendationEngine/Exploration/BeerExploration_Styles.ipynb) Exploring beer styles for popularity and trends.
 
