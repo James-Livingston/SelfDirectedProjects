@@ -9,6 +9,7 @@ Collecting and analyzing 2 million online reviews.
 ## Table of Contents
 1. [NLP Analysis](#nlp-analysis)
 2. [Data Collection](#data-collection)
+2. [Data Exploration](#data-exploration)
 
 ### NLP Analysis
 
